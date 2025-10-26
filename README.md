@@ -7,6 +7,6 @@ ls
 cat index.js
 # In order to start the server, we run the index.js file with the node command.
 node index.js
-#In the second terminal window, use the curl command to ping the application.
+# In the second terminal window, use the curl command to ping the application.
 curl localhost:8080
 
